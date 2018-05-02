@@ -1,3 +1,16 @@
+#sidebar {
+  position: fixed;
+  background-color: white;
+  width: 200px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+
+#page-content {
+  margin-left: 200px;
+}
+
 body {
   background-color: #50514F;
   font-family: Times, Helvetica;
@@ -38,7 +51,7 @@ a:hover {
 .card {
   background-color: #A572A1;
   padding: 20px;
-  margin: 20px;
+  margin: 7px;
   border-radius: 3px;
   box-shadow: 1px 1px 1px #272D2D;
 }
