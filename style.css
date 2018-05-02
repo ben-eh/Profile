@@ -1,0 +1,67 @@
+body {
+  background-color: #50514F;
+  font-family: Times, Helvetica;
+  color: #EFF3FF;
+  font-weight: 300;
+  letter-spacing: -0.5px;
+  line-height: 17px;
+}
+
+h1 {
+  color: #272D2D;
+}
+
+h2, h3 {
+  color: black;
+  font-weight: 500;
+  font-family: Georgia, Times;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #0F5159;
+  font-weight: bold;
+}
+
+a:hover {
+  color: black;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: #A572A1;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px #272D2D;
+}
+
+.text-center {
+  text-align: center;
+}
+
+#profile {
+  width: 200px;
+  border-radius: 50%;
+}
+
+table img {
+  width: 150px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  margin: 20px;
+}
